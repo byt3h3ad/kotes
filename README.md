@@ -1,6 +1,8 @@
 # kotes
 
-Random quotes, made using [Vue](https://vuejs.org/) and [TailwindCSS](https://tailwindcss.com/).
+[Random quotes](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db),
+made using [Vue](https://vuejs.org/) and
+[TailwindCSS](https://tailwindcss.com/).
 
 ## Project Setup
 
