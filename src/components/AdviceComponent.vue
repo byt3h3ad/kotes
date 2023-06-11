@@ -8,7 +8,7 @@ export default {
     }
   },
   methods: {
-    writeAdvice() {
+    async writeAdvice() {
       try {
         fetch('https://api.adviceslip.com/advice')
           .then((response) => response.json())

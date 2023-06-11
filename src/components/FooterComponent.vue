@@ -1,6 +1,6 @@
 <template>
   <footer
-    class="flex items-center justify-center font-mono font-bold p-4 bg-[#252627] text-[#a9a9b3] min-w-full bottom-0 fixed left-0"
+    class="flex items-center justify-center font-mono font-bold p-5 bg-[#252627] text-[#a9a9b3] min-w-full bottom-0 fixed left-0"
   >
     <a href="https://peerlist.io/adhiraj" target="_blank">
       <span class="mr-1">></span>
