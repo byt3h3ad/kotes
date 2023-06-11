@@ -1,15 +1,15 @@
 <script>
-import FooterComponent from './components/FooterComponent.vue'
-import AdviceComponent from './components/AdviceComponent.vue'
+import Advice from './components/AdviceComponent.vue'
+import FooterSection from './components/FooterComponent.vue'
 export default {
   components: {
-    FooterComponent,
-    AdviceComponent
+    Advice,
+    FooterSection
   }
 }
 </script>
 
 <template>
-  <AdviceComponent />
-  <FooterComponent />
+  <Advice />
+  <FooterSection />
 </template>
